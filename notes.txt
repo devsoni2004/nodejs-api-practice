@@ -1,0 +1,9 @@
+-> Login Page
+-> Register Page
+-> Register API
+    -> Redirect to home page
+-> Login API
+    -> Check Credentials
+    -> Generate a Token for user
+    -> set token in user response cookie
+    -> Redirect to home page
